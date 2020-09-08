@@ -1,2 +1,7 @@
 # Week-2
 Assignments and Notes for Week 2 - ISTM 631
+
+
+Analytics is using raw data to tell a story of the past and make educated predictions of the future. It involves statistics, computer science, and knowledge on the specific subject data to be successful in the field of analytics. With the invention of the personal computer then the internet, civilization is novel in hindsight to harnessing the tools of technology that document mass amounts of data. If occurrences and statistical data can be tracked, analytics may be utilized. Analytical professionals access data, make it useful through data cleaning, prepare modeling, and study the data to draw inferences from it. Analytics is not a new concept. Anything that can be tracked has potential to have inferences drawn from it. A clear examples of analytics would be tracking specific companies in the stock market, comparing past trends in industry stock prices, and making an educated decisions to buy, hold, or sell specific stocks based on what you think the future will hold. A less common example of analytics would be tracking an individuals educational performance along with their daily habits, to improve future performances by changing current activities. A profession in analytics provides an individual with many opportunities to problem-solve, be creative and assist in the betterment of others through understanding facts of the past. One must be willing to ask the correct questions in order to find the not-so-obvious conclusions that will change the future.
+
+
